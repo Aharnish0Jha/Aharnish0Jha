@@ -1,7 +1,7 @@
-[![MasterHead](https://img.freepik.com/free-vector/laptop-with-program-code-isometric-icon-software-development-programming-applications-dark-neon_39422-971.jpg?size=626&ext=jpg&ga=GA1.1.632798143.1705276800&semt=sph)]
+[![MasterHead](https://cdn.shopify.com/s/files/1/0306/6419/6141/articles/coding_languages.png?v=1619126283)]
 <h1 align="center">Hi 👋, I'm Aharnish Jha</h1>
 <h3 align="center">I am STUDENT, studying Computer Science Engineering (Specialization in Cyber Security).</h3>
-<img align="right" alt="CODING" width="400" src=https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="CODING" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 - 🌱 I’m currently learning **Web Development and Machine Learning**
 
