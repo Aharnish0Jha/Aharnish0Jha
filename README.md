@@ -31,7 +31,7 @@ I've developed solutions across Web Development, IoT, AI/ML, AR/VR, and Cybersec
 🔗 **Let’s Connect!**
 Always excited to collaborate on open-source projects, hackathons, and innovative ideas.  
 Feel free to reach out!
-
+- 💼 I’m currently open for an Intern or a new job opportunity.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -39,6 +39,11 @@ Feel free to reach out!
 <a href="https://www.linkedin.com/in/aharnish-jha-b3b5b92b7/" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
 </a>
+<a href="mailto:jhaaharnish01@gmail.com" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Gmail" height="30" width="40" />
+</a>
+
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
