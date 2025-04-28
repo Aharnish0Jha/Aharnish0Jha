@@ -1,6 +1,41 @@
 ![MasterHead](https://cdn.shopify.com/s/files/1/0306/6419/6141/articles/coding_languages.png?v=1619126283)
 <h1 align="center">Hi 👋, I'm Aharnish Jha</h1>
-<h3 align="center">I am STUDENT, studying Computer Science Engineering (Specialization in Cyber Security).</h3>
+<h3 align="center">I'm a passionate Computer Science and Engineering student specializing in Cybersecurity..</h3>
+🚀 I love building real-world projects that blend technology, creativity, and impact.  
+I've developed solutions across Web Development, IoT, AI/ML, AR/VR, and Cybersecurity.
+
+🛠️ **Past Projects:**
+- Built **AR-QR Lab**, a web platform to scan and create Augmented Reality QR codes — developed in 3 hours at Hyperthon, the world's first speed hackathon.
+- Created **BinSense**, an AI + IoT-based Smart Waste Management System.
+- Developed a **Women’s Safety Analytics** system using AI for real-time threat detection.
+- Built a **Smart Irrigation System** with real-time precision farming solutions using Arduino and wireless sensors.
+- Created a **Store Management System** with Python-MySQL integration for easy inventory and order management.
+- Designed an **Orrery Web App** to visualize the Solar System for NASA Hackathon.
+
+💻 **Technical Skills:**
+- Languages: Python, C++, Java (learning), HTML, CSS, JavaScript
+- Frameworks & Tools: React.js, MySQL, MongoDB, Node.js
+- Specializations: Cybersecurity fundamentals, IoT systems, Machine Learning models
+- Extras: Blender (for 3D), Arduino Development, API Integrations
+
+🎯 **Hackathons & Achievements:**
+- Finalist and top ranks in national-level hackathons including NASA Hackathon, SIH, PES National Hackathon, DSU National Hackathon, and many more.
+- Multiple top 3 placements across competitive innovation challenges.
+
+📚 **Internships & Training:**
+- Cybersecurity Internship at Red Users
+- Hands-on IoT Workshop by IobiT Solutions
+- Cybersecurity Workshop by IDEMI
+
+🌱 **Currently Learning:**
+- Advanced Cybersecurity practices
+- AI/ML threat detection models
+- Deep dive into Java backend development
+
+🔗 **Let’s Connect!**
+Always excited to collaborate on open-source projects, hackathons, and innovative ideas.  
+Feel free to reach out!
+
 <img align="right" alt="CODING" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 - 🌱 I’m building my career in **Cybersecurity and AI/ML**
