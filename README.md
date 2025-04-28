@@ -39,9 +39,10 @@ Feel free to reach out!
 <a href="https://www.linkedin.com/in/aharnish-jha-b3b5b92b7/" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
 </a>
-<a href="mailto:jhaaharnish01@gmail.com" target="blank">
-  <img align="center" src="https://img.icons8.com/ios/452/gmail-logo.png" alt="Gmail" height="30" width="40" />
+<a href="mailto:jhaharnish01@gmail.com" target="blank">
+  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Gmail_Logo_2023.png" alt="Gmail" height="30" width="40" />
 </a>
+
 
 </p>
 
