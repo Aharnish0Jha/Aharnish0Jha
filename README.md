@@ -40,9 +40,8 @@ Feel free to reach out!
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
 </a>
 <a href="mailto:jhaaharnish01@gmail.com" target="blank">
-  <img align="center" src="https://img.icons8.com/ios/452/gmail.png" alt="Gmail" height="30" width="40" />
+  <img align="center" src="https://img.icons8.com/ios/452/gmail-logo.png" alt="Gmail" height="30" width="40" />
 </a>
-
 
 </p>
 
