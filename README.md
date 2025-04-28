@@ -4,13 +4,18 @@
 🚀 I love building real-world projects that blend technology, creativity, and impact.  
 I've developed solutions across Web Development, IoT, AI/ML, AR/VR, and Cybersecurity.
 
-🛠️ **Past Projects:**
-- Built **AR-QR Lab**, a web platform to scan and create Augmented Reality QR codes — developed in 3 hours at Hyperthon, the world's first speed hackathon.
-- Created **BinSense**, an AI + IoT-based Smart Waste Management System.
-- Developed a **Women’s Safety Analytics** system using AI for real-time threat detection.
-- Built a **Smart Irrigation System** with real-time precision farming solutions using Arduino and wireless sensors.
-- Created a **Store Management System** with Python-MySQL integration for easy inventory and order management.
-- Designed an **Orrery Web App** to visualize the Solar System for NASA Hackathon.
+<img align="right" alt="CODING" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
+
+🌱 **Currently Learning:**
+- Advanced Cybersecurity practices
+- AI/ML threat detection models
+- Deep dive into Java backend development
+
+📚 **Internships & Training:**
+- Cybersecurity Internship at Red Users
+- Hands-on IoT Workshop by IobiT Solutions
+- Cybersecurity Workshop by IDEMI
 
 💻 **Technical Skills:**
 - Languages: Python, C++, Java (learning), HTML, CSS, JavaScript
@@ -21,30 +26,12 @@ I've developed solutions across Web Development, IoT, AI/ML, AR/VR, and Cybersec
 🎯 **Hackathons & Achievements:**
 - Finalist and top ranks in national-level hackathons including NASA Hackathon, SIH, PES National Hackathon, DSU National Hackathon, and many more.
 - Multiple top 3 placements across competitive innovation challenges.
-
-📚 **Internships & Training:**
-- Cybersecurity Internship at Red Users
-- Hands-on IoT Workshop by IobiT Solutions
-- Cybersecurity Workshop by IDEMI
-
-🌱 **Currently Learning:**
-- Advanced Cybersecurity practices
-- AI/ML threat detection models
-- Deep dive into Java backend development
+- 👯 I’m looking to collaborate on **Cybersecurity Projects**
 
 🔗 **Let’s Connect!**
 Always excited to collaborate on open-source projects, hackathons, and innovative ideas.  
 Feel free to reach out!
 
-<img align="right" alt="CODING" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-
-- 🌱 I’m building my career in **Cybersecurity and AI/ML**
-
-- 👯 I’m looking to collaborate on **Cybersecurity Projects**
-
-- 💬 Ask me about **Python, Web Development, Cybersecurity and AI/ML**
-
-- 📫 How to reach me **jhaaharnish01@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
